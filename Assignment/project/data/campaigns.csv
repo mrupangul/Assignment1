@@ -1,0 +1,4 @@
+campaignId,impressions,clicks,conversions,spend,revenue,status,date
+CAMP001,10000,300,25,500,1500,Active,2024-01-20
+CAMP002,15000,450,35,750,2250,Active,2024-01-20
+CAMP003,8000,160,12,400,600,Active,2024-01-20
